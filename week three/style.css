@@ -1,0 +1,14 @@
+body{
+  background-color: rgb(208, 231, 173);
+}
+
+h2, h1 {
+  color: black;
+
+}
+
+p {
+  background-color: beige;
+  color: black;
+  text-align: center;
+}

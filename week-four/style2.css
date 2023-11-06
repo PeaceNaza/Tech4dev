@@ -1,0 +1,21 @@
+
+p {
+
+} 
+
+body {
+    background-image: url(../week);
+}
+
+/** font weight, size family, style
+text align , decoration, transform shadow 
+most times you may not use them but you should be aware they exist
+    background: 
+    color
+    image
+     repeat
+     size
+     position
+     attachment
+     dont add opacity to background as it will aslso affect d tex
+     **/
