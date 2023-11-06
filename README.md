@@ -1,2 +1,2 @@
 # Tech4dev 
-## This is my practice on HTML and CSS projects 
+## My Practice on HTML and CSS Projects 
